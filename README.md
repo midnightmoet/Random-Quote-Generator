@@ -6,3 +6,5 @@ This is a random quote generator that displays a random quote every 10 seconds. 
 -HTML5
 -CSS3
 -JavaScript
+[Font Awesome](https://fontawesome.com/)
+[Quotable API](https://docs.quotable.io/docs/api/ZG9jOjQ2NDA2-introduction)
